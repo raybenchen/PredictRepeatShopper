@@ -21,7 +21,7 @@ brew install apache-spark
 ```export SPARK_HOME="/usr/local/Cellar/apache-spark/1.6.1/libexec/"
 export MASTER="local-cluster[3,2,1024]"
 fi```
-
+ 
 
 ## Install [sparkling water](http://h2o-release.s3.amazonaws.com/sparkling-water/rel-1.6/1/index.html):
 1. [download sparkling water here](http://h2o-release.s3.amazonaws.com/sparkling-water/rel-1.6/1/sparkling-water-1.6.1.zip)
